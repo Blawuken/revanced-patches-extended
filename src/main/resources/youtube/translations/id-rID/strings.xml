@@ -145,6 +145,9 @@ Catatan: Menonaktifkan overlay kecepatan akan mengembalikan perilaku 'geser untu
     <string name="revanced_enable_opus_codec_title">Aktifkan codec opus</string>
     <string name="revanced_enable_phone_layout_summary">Trik dpi untuk menggunakan beberapa tata letak ponsel.</string>
     <string name="revanced_enable_phone_layout_title">Aktifkan tata letak ponsel</string>
+    <string name="revanced_enable_press_to_swipe_summary_off">Tekan untuk menggeser dinonaktifkan.</string>
+    <string name="revanced_enable_press_to_swipe_summary_on">Tekan untuk menggeser diaktifkan.</string>
+    <string name="revanced_enable_press_to_swipe_title">Aktifkan gerakan tekan untuk menggeser</string>
     <string name="revanced_enable_save_playback_speed_summary_off">Tidak menyimpan nilai kecepatan pemutaran bahkan saat mengubah kecepatan pemutaran.</string>
     <string name="revanced_enable_save_playback_speed_summary_on">Simpan nilai kecepatan pemutaran setiap kali Anda mengubah kecepatan pemutaran.</string>
     <string name="revanced_enable_save_playback_speed_title">Aktifkan simpan kecepatan pemutaran</string>
@@ -160,6 +163,9 @@ Catatan: Menonaktifkan overlay kecepatan akan mengembalikan perilaku 'geser untu
     <string name="revanced_enable_swipe_brightness_summary_off">Swipe kecerahan dinonaktifkan.</string>
     <string name="revanced_enable_swipe_brightness_summary_on">Swipe kecerahan diaktifkan.</string>
     <string name="revanced_enable_swipe_brightness_title">Aktifkan gestur kecerahan</string>
+    <string name="revanced_enable_swipe_haptic_feedback_summary_off">Umpan balik haptik tekan untuk menggeser dinonaktifkan.</string>
+    <string name="revanced_enable_swipe_haptic_feedback_summary_on">Umpan balik haptik tekan untuk menggeser diaktifkan.</string>
+    <string name="revanced_enable_swipe_haptic_feedback_title">Aktifkan umpan balik haptik tekan untuk menggeser</string>
     <string name="revanced_enable_swipe_volume_summary_off">Swipe volume dinonaktifkan.</string>
     <string name="revanced_enable_swipe_volume_summary_on">Swipe volume diaktifkan.</string>
     <string name="revanced_enable_swipe_volume_title">Aktifkan gestur volume</string>
@@ -414,6 +420,9 @@ Beberapa komponen mungkin tidak disembunyikan."</string>
     <string name="revanced_hide_navigation_label_summary_off">Label navigasi ditampilkan.</string>
     <string name="revanced_hide_navigation_label_summary_on">Label navigasi disembunyikan.</string>
     <string name="revanced_hide_navigation_label_title">Sembunyikan label navigasi</string>
+    <string name="revanced_hide_notifications_button_summary_off">Tombol notifikasi ditampilkan.</string>
+    <string name="revanced_hide_notifications_button_summary_on">Tombol notifikasi disembunyikan.</string>
+    <string name="revanced_hide_notifications_button_title">Sembunyikan tombol notifikasi</string>
     <string name="revanced_hide_notify_me_button_summary_off">Tombol beri tahu saya ditampilkan.</string>
     <string name="revanced_hide_notify_me_button_summary_on">Tombol beri tahu saya disembunyikan.</string>
     <string name="revanced_hide_notify_me_button_title">Sembunyikan tombol beri tahu saya di feed</string>
@@ -513,6 +522,9 @@ Beberapa komponen mungkin tidak disembunyikan."</string>
     <string name="revanced_hide_self_sponsor_cards_summary_off">Kartu sponsor pribadi ditampilkan.</string>
     <string name="revanced_hide_self_sponsor_cards_summary_on">Kartu sponsor pribadi disembunyikan.</string>
     <string name="revanced_hide_self_sponsor_cards_title">Sembunyikan kartu sponsor pribadi</string>
+    <string name="revanced_hide_shopping_links_summary_off">Tautan belanja ditampilkan.</string>
+    <string name="revanced_hide_shopping_links_summary_on">Tautan belanja disembunyikan.</string>
+    <string name="revanced_hide_shopping_links_title">Sembunyikan tautan belanja</string>
     <string name="revanced_hide_shorts_button_summary_off">Tombol shorts ditampilkan.</string>
     <string name="revanced_hide_shorts_button_summary_on">Tombol shorts disembunyikan.</string>
     <string name="revanced_hide_shorts_button_title">Sembunyikan tombol shorts</string>
@@ -667,6 +679,7 @@ Tekan dan tahan untuk mengatur kecepatan pemutaran ke 1,0x."</string>
     <string name="revanced_share_copy_url_timestamp_success">URL dengan stempel waktu disalin ke papan klip.</string>
     <string name="revanced_shorts">Shorts</string>
     <string name="revanced_shorts_player_title">Pemutar shorts</string>
+    <string name="revanced_shorts_toolbar_summary">Tombol kembali pada toolbar tidak dapat disembunyikan.</string>
     <string name="revanced_shorts_toolbar_title">Toolbar shorts</string>
     <string name="revanced_show_fullscreen_title_summary">Masalah yang diketahui: Judul menghilang saat diklik</string>
     <string name="revanced_show_fullscreen_title_title">Tampilkan judul layar penuh</string>
