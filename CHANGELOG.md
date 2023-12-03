@@ -1,3 +1,21 @@
+# [1.3.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.2.0...v1.3.0) (2023-12-03)
+
+
+### Bug Fixes
+
+* **YouTube/Hide voice search button:** add right margin ([ac2c7bd](https://github.com/Blawuken/revanced-patches-extended/commit/ac2c7bdc7ac41df1a84ba7e9611f25da5031c9ba))
+* **YouTube/Swipe controls:** change the description of settings ([d9a513c](https://github.com/Blawuken/revanced-patches-extended/commit/d9a513c7be5ada61afe897c2fccfcc2f5e78101d))
+
+
+### Features
+
+* **YouTube Music/Translations:** update translation ([f1e5831](https://github.com/Blawuken/revanced-patches-extended/commit/f1e5831d3d5d55f4352f43b28b2c21eb6465e67b))
+* **YouTube Music:** add `Hide general ads` patch ([e97a1c9](https://github.com/Blawuken/revanced-patches-extended/commit/e97a1c95dbc9e8bca9692cb21ed79f0ba3417b00))
+* **YouTube/Swipe controls:** `Enable press-to-swipe gesture` is no longer `Experimental Flags` ([b86dee7](https://github.com/Blawuken/revanced-patches-extended/commit/b86dee7b771291f2e804891e005ecb50730c89ed))
+* **YouTube/Swipe controls:** add `Swipe gestures in 'Lock screen' mode` settings ([d4b8efc](https://github.com/Blawuken/revanced-patches-extended/commit/d4b8efc67e747dcfe2902aa10bafdecd9d679926))
+* **YouTube/translation:** Full update indonesian translation ([42bb9f6](https://github.com/Blawuken/revanced-patches-extended/commit/42bb9f6fbc2557f4b1f86a084d8179124cd3097b))
+* **YouTube/Translations:** update translation ([706d8f1](https://github.com/Blawuken/revanced-patches-extended/commit/706d8f1f54cabf5f6916bbceaf981236c08d0209))
+
 # [1.2.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.1.0...v1.2.0) (2023-12-03)
 
 
