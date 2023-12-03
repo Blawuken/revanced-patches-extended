@@ -1,3 +1,27 @@
+# [1.2.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.1.0...v1.2.0) (2023-12-03)
+
+
+### Bug Fixes
+
+* **YouTube/Settings:** some translations are wrong ([25462b0](https://github.com/Blawuken/revanced-patches-extended/commit/25462b046e99b96b952b8c5b197e5be925961465))
+* **YouTube:** `Force fullscreen` patch fails on some versions ([9363d38](https://github.com/Blawuken/revanced-patches-extended/commit/9363d38b3377db54d964420604e778a30cd80233))
+* **YouTube:** remove unused fingerprints ([7879c38](https://github.com/Blawuken/revanced-patches-extended/commit/7879c3870a202c04be94184f40fd8dae5699087a))
+
+
+### Features
+
+* add `Hide voice search button` patch ([4bd4d2c](https://github.com/Blawuken/revanced-patches-extended/commit/4bd4d2ccdf1fd9131b33ce1eb3cf610713ceb6f7))
+* **YouTube Music/Hide music ads:** add `Close interstitial ads` settings ([c3d058e](https://github.com/Blawuken/revanced-patches-extended/commit/c3d058efe4f2a5eab1221a107c94f444d4d76a4f))
+* **YouTube Music/Translations:** update translation ([08ef304](https://github.com/Blawuken/revanced-patches-extended/commit/08ef304a72da8a32f86b1df049e7438d754821d8))
+* **YouTube Music:** add compatibility for next year's release ([31cecbe](https://github.com/Blawuken/revanced-patches-extended/commit/31cecbebd267350e1532c61cfcccea1ed226b851))
+* **YouTube/Disable HDR video:** support version `18.46.43` ([40914ff](https://github.com/Blawuken/revanced-patches-extended/commit/40914ffecc0c6f2a5ca5d59b2e05ece85160ccad))
+* **YouTube/Hide general ads:** add `Close interstitial ads` settings ([63d2135](https://github.com/Blawuken/revanced-patches-extended/commit/63d21354c0be9abb03111184b912e220af34a157))
+* **YouTube/Hide shorts components:** add `Hide create shorts button` settings ([ba5ec0e](https://github.com/Blawuken/revanced-patches-extended/commit/ba5ec0e6dbec7ff2952a06336610eea3c1adaa56))
+* **YouTube/Old speed layout:** support version `18.46.43` ([1cce4f6](https://github.com/Blawuken/revanced-patches-extended/commit/1cce4f6b0425efc73e1b57e0713a37c78fd4672d))
+* **YouTube/Translations:** update translation ([afa1a53](https://github.com/Blawuken/revanced-patches-extended/commit/afa1a535338eb2d6036691bdb9bd53233676919d))
+* **YouTube:** add compatibility for next year's release ([a5cb4a8](https://github.com/Blawuken/revanced-patches-extended/commit/a5cb4a8414a9fe31b1231feed13fd1487a77ab01))
+* **YouTube:** add support version `v18.46.43` ([3b60b5f](https://github.com/Blawuken/revanced-patches-extended/commit/3b60b5faed50cc647c0c4129544097e62c69c5ab))
+
 # [1.1.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.0.0...v1.1.0) (2023-12-01)
 
 
