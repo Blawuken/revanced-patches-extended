@@ -1,3 +1,24 @@
+# [1.4.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.3.0...v1.4.0) (2023-12-06)
+
+
+### Bug Fixes
+
+* **Custom branding icon:** changed so that it is not a necessary patch option ([43229b5](https://github.com/Blawuken/revanced-patches-extended/commit/43229b59bbeb0bd6417be226a6b41a013941c910))
+* **Return YouTube Dislike:** fix typo ([fc5df14](https://github.com/Blawuken/revanced-patches-extended/commit/fc5df14d1824f06d73fadee83f54e7b7fa444502))
+* **YouTube Music/Hide general ads:** `Hide premium renewal banner` is not hidden ([69a038c](https://github.com/Blawuken/revanced-patches-extended/commit/69a038cdad42b6e84ad2140a625f969c6a364a48))
+* **YouTube/Custom branding icon YouTube:** If the user changed to a custom icon through `Patch Options`, this was not reflected in `Patch Information` ([be5a528](https://github.com/Blawuken/revanced-patches-extended/commit/be5a52842d003510b6fce6a3e9c8bc092bc5f6d0))
+* **YouTube/Return YouTube Dislike:** prevent the first Short opened from freezing the UI ([ef5ec8d](https://github.com/Blawuken/revanced-patches-extended/commit/ef5ec8dbb7827f4395ee94535c36bdb0f6cd1fbb))
+* **YouTube/Spoof player parameters:** error toast shown when you first launch the app ([dddf65d](https://github.com/Blawuken/revanced-patches-extended/commit/dddf65dc94cf1829a7234a8690cd7d56a4d9246e))
+* **YouTube:** `Enable wide search bar` and `Hide search term thumbnail` patches are not compatible with some versions ([ea25461](https://github.com/Blawuken/revanced-patches-extended/commit/ea2546110cc773b88e2b2886adc634f46cd50133))
+
+
+### Features
+
+* **YouTube Music/Translations:** update translation ([4ea3608](https://github.com/Blawuken/revanced-patches-extended/commit/4ea3608ef2038706f68c555d8f722e048eff88c0))
+* **YouTube/Hide general ads:** toast message is shown when closing `interstitial ads` ([89c081f](https://github.com/Blawuken/revanced-patches-extended/commit/89c081f3959d9768db6556f8be761f82843a2b69))
+* **YouTube/Translations:** update translation ([eabe11b](https://github.com/Blawuken/revanced-patches-extended/commit/eabe11b7681238f53df64fcd776c2f4de633be6e))
+* **YouTube:** drop support version `v18.46.43` ([143e1a7](https://github.com/Blawuken/revanced-patches-extended/commit/143e1a79f037df562fec3dcdca10401f55016829))
+
 # [1.3.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.2.0...v1.3.0) (2023-12-03)
 
 
