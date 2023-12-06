@@ -1,3 +1,17 @@
+# [1.5.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.4.0...v1.5.0) (2023-12-06)
+
+
+### Bug Fixes
+
+* **Custom branding icon:** displays an appropriate error if the path to patch options is invalid ([9f139d9](https://github.com/Blawuken/revanced-patches-extended/commit/9f139d942b2dabb7deda9a3f11babf8ff8954e16))
+* **Custom branding icon:** patch options not available ([b9d926f](https://github.com/Blawuken/revanced-patches-extended/commit/b9d926f06367e18927102364801b7ce28df02919))
+* **YouTube/Spoof player parameters:** thumbnail preview is not updated ([1fd006d](https://github.com/Blawuken/revanced-patches-extended/commit/1fd006d446bb7d98cfa3dca9f626796c63f2bdf6))
+
+
+### Features
+
+* **YouTube/Translations:** update translation ([d20dc0e](https://github.com/Blawuken/revanced-patches-extended/commit/d20dc0e9a1604934ef5790c29791446dd6891e6b))
+
 # [1.4.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.3.0...v1.4.0) (2023-12-06)
 
 
