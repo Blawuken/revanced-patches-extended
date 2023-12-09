@@ -1,3 +1,22 @@
+# [1.6.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.5.0...v1.6.0) (2023-12-09)
+
+
+### Bug Fixes
+
+* **YouTube Music/Enable old player layout:** add version constraint ([92e1336](https://github.com/Blawuken/revanced-patches-extended/commit/92e13362451e9a335ded8e4b1471d0cd39e82961))
+* **YouTube Music/Enable old player layout:** add version constraint (no longer available as legacy code has been completely removed in `v6.31.55+`) ([0988e4b](https://github.com/Blawuken/revanced-patches-extended/commit/0988e4b18a68e892edd4fbd1ca2ce681510b2277))
+* **YouTube Music/Hide action bar label:** patch breaks in `v6.31.55+` ([e920c63](https://github.com/Blawuken/revanced-patches-extended/commit/e920c632f732e5aabc55a95fde7dbf0093c3f752))
+* **YouTube Music/Settings:** patch breaks in `v6.31.55+` ([c8a0b7a](https://github.com/Blawuken/revanced-patches-extended/commit/c8a0b7ab161f7dbaf0e5c2d243cd5ec35fc47f80))
+* **YouTube/Hide navigation buttons:** update side effect of `Switch create with notifications button` setting ([b8397d0](https://github.com/Blawuken/revanced-patches-extended/commit/b8397d0426f598deabe9c81835056d16ed4ad46b))
+
+
+### Features
+
+* **Reddit:** change patch name: `Hide place button` → `Hide toolbar button` ([5e808c4](https://github.com/Blawuken/revanced-patches-extended/commit/5e808c48ded4b45d3ab1c141778fefe3a838d093))
+* **YouTube Music/Hide general ads:** now patch hides new type of interstitial banner ([6b6f405](https://github.com/Blawuken/revanced-patches-extended/commit/6b6f4059b32e1fded1ee2dabefeecf87e114c7f8))
+* **YouTube Music/Translations:** update translation ([08832e9](https://github.com/Blawuken/revanced-patches-extended/commit/08832e9baae7805defa485f1c4364d30cf31fe9b))
+* **YouTube/Translations:** update translation ([81b86d3](https://github.com/Blawuken/revanced-patches-extended/commit/81b86d3f2fb011d53fd16142e0524e7e572ab201))
+
 # [1.5.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.4.0...v1.5.0) (2023-12-06)
 
 
