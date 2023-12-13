@@ -1,3 +1,29 @@
+# [1.7.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.6.0...v1.7.0) (2023-12-13)
+
+
+### Bug Fixes
+
+* settings UI typos ([ce09a25](https://github.com/Blawuken/revanced-patches-extended/commit/ce09a25d50d1c358c99f804e8ca6ebbb7671176a))
+* **YouTube Music/Remember video quality:** video quality toast shows wrong quality value ([458e156](https://github.com/Blawuken/revanced-patches-extended/commit/458e1568b93b061cb30e1ebc03696039e9c1e502))
+* **YouTube/Litho filter:** integrate filter ([37775f3](https://github.com/Blawuken/revanced-patches-extended/commit/37775f368294b707716aeb2a34a1f7e6b9134151))
+* **YouTube/Swipe controls:** press-to-swipe gesture working on overlays ([7489443](https://github.com/Blawuken/revanced-patches-extended/commit/748944300e062f28b21baaee38fe10cca305decc))
+
+
+### Features
+
+* **YouTube Music/Translations:** update translation ([843177d](https://github.com/Blawuken/revanced-patches-extended/commit/843177d182f32557e92a304fc6deab7a586b9066))
+* **YouTube Music:** rename patch `Start page` → `Change start page` ([c891ccc](https://github.com/Blawuken/revanced-patches-extended/commit/c891ccc2df86260edf23f6f02934fe2965d00ffd))
+* **YouTube/Alternative thumbnails:** matches official ReVanced code ([a1cdded](https://github.com/Blawuken/revanced-patches-extended/commit/a1cddedcaaf8fc070aa8ddf601ddd75a2a9a35b3))
+* **YouTube/Hide channel profile components:** add `Hide store tab` settings ([e82dae3](https://github.com/Blawuken/revanced-patches-extended/commit/e82dae302065f4db9bd40fc13749aff59f9d3a49))
+* **YouTube/Hide navigation buttons:** clarify toggle descriptions ([3c0eef8](https://github.com/Blawuken/revanced-patches-extended/commit/3c0eef887b54fc380753a33970f7a859744ddb2d))
+* **YouTube/Hide navigation buttons:** remove `Open library(You) on app startup` settings ([4886cb4](https://github.com/Blawuken/revanced-patches-extended/commit/4886cb44beb0e52c00c44fa561d97121c3631c3c))
+* **YouTube/Spoof player parameters:** matches official ReVanced code ([41c3f91](https://github.com/Blawuken/revanced-patches-extended/commit/41c3f9112ea541f071ec3ecb0a739795c21b8b3d))
+* **YouTube/Spoof player parameters:** matches official ReVanced code ([028615c](https://github.com/Blawuken/revanced-patches-extended/commit/028615c6d30dff3a5814f7a5493e590837ca256b))
+* **YouTube/Translations:** update translation ([f2991b6](https://github.com/Blawuken/revanced-patches-extended/commit/f2991b6d9d0d8a693fce38f73cde3cee51008d9e))
+* **YouTube:** add `Change start page` patch ([5170de2](https://github.com/Blawuken/revanced-patches-extended/commit/5170de29dc518e41ba58b59abed80dfc2fd4fd42))
+* **YouTube:** remove `Change homepage` patch ([c08bf08](https://github.com/Blawuken/revanced-patches-extended/commit/c08bf08ea89202525fc242b88883c87873deb184))
+* **YouTube:** rename patch `Enable music search` → `Enable song search` ([59bd23d](https://github.com/Blawuken/revanced-patches-extended/commit/59bd23d73a772de9e9dab620625d001d8ac84439))
+
 # [1.6.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.5.0...v1.6.0) (2023-12-09)
 
 
