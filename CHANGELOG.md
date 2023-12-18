@@ -1,3 +1,22 @@
+# [1.8.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.7.0...v1.8.0) (2023-12-18)
+
+
+### Bug Fixes
+
+* **YouTube Music/MicroG support:** can't share the stories to Facebook, Instagram and Snapchat ([7340b9a](https://github.com/Blawuken/revanced-patches-extended/commit/7340b9a980e7a9df5778f581ce666e03c256f014))
+* **YouTube/Change start page:** remove `Podcasts` from the start page list ([013ecf2](https://github.com/Blawuken/revanced-patches-extended/commit/013ecf2adbc5c4e986b68b42c3a4009cb8a1f6cb))
+* **YouTube/Litho filter:** integrate filter ([c95be70](https://github.com/Blawuken/revanced-patches-extended/commit/c95be702a5e798644d09b28e132a5fe955c74931))
+* **YouTube/SponsorBlock:** export local statistics with saved settings ([0d91252](https://github.com/Blawuken/revanced-patches-extended/commit/0d912522e4e2de54823a80c6f828818a744ef3d2))
+
+
+### Features
+
+* **YouTube Music/Translations:** update translation ([7ac5caf](https://github.com/Blawuken/revanced-patches-extended/commit/7ac5caf797a1f91f66492a6fa16492813026d7b4))
+* **YouTube/Hide comment component:** add `Hide comments by members banner` settings ([10e7afe](https://github.com/Blawuken/revanced-patches-extended/commit/10e7afe88d92c46b00ae2259e3e33b2ce38c9097))
+* **YouTube/Spoof app version:** remove target version 18.01.38 - Remove 'Comments by members' banner ([34ab02c](https://github.com/Blawuken/revanced-patches-extended/commit/34ab02c1f7fefc6f23f341f85207b49ca2815c39))
+* **YouTube/Translations:** update translation ([1fd0052](https://github.com/Blawuken/revanced-patches-extended/commit/1fd005275706970bd393b7197ef3346f12f5aa70))
+* **YouTube:** add `Enable bottom player gestures` patch ([d956cdc](https://github.com/Blawuken/revanced-patches-extended/commit/d956cdc3be73b34a09fddd9e2ee7c8facb92ae0e))
+
 # [1.7.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.6.0...v1.7.0) (2023-12-13)
 
 
