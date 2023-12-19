@@ -2,7 +2,7 @@ name: Release
 
 on:
   workflow_dispatch:
-  push:
+  pull_request:
     branches:
       - revanced-extended
 
@@ -39,8 +39,8 @@ jobs:
       - name: Build with Gradle
         run: ./gradlew generateMeta clean
 
-      - name: Setup semantic-release
-        run: npm install
-
-      - name: Release
-        run: npm exec semantic-release
+      - name: Upload revanced-patches to Artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: 'revanced-patches'
+          path: build/libs/*.jar
