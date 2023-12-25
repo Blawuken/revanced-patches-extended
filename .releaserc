@@ -20,7 +20,8 @@
           "README.md",
           "CHANGELOG.md",
           "gradle.properties",
-          "patches.json"
+          "patches.json",
+          "src/main/resources/youtube/settings/xml/revanced_prefs.xml"
         ]
       }
     ],
