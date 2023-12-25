@@ -1,3 +1,27 @@
+# [1.9.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.8.0...v1.9.0) (2023-12-25)
+
+
+### Bug Fixes
+
+* clarify fingerprint name ([779247a](https://github.com/Blawuken/revanced-patches-extended/commit/779247a96ee825d5ee25e80804af39a1e444c081))
+* error toast is shown when not connected to the network or playing a device file ([8223b8e](https://github.com/Blawuken/revanced-patches-extended/commit/8223b8ed9c6119403a6fca0671f6b3b6ead58460))
+* **YouTube Music/Hide flyout panel:** `Watch on YouTube` menu works even when playing a device file ([1f48c19](https://github.com/Blawuken/revanced-patches-extended/commit/1f48c19ea5a2e772a7e784b20ad5ff2b812a260c))
+* **YouTube Music/SponsorBlock:** segments not skipping during background play ([3df0493](https://github.com/Blawuken/revanced-patches-extended/commit/3df0493738910e72032276bc75e0d8a68c5ae4e9))
+* **YouTube/Alternative thumbnails:** clarify DeArrow support is for thumbnails ([4469036](https://github.com/Blawuken/revanced-patches-extended/commit/4469036584fd4ba587085ad4becf5819a72f0a30))
+* **YouTube/Enable wide search bar:** layout breaks on devices above 720 dpi ([2c11d98](https://github.com/Blawuken/revanced-patches-extended/commit/2c11d982a243e87c4e6fcba02461f1e07c2ed3af))
+
+
+### Features
+
+* **Reddit:** add `Change package name` patch ([019df95](https://github.com/Blawuken/revanced-patches-extended/commit/019df9592cd8854d03530a0e21ecde5567628d07))
+* **Reddit:** add `Custom branding name Reddit` patch ([2f36790](https://github.com/Blawuken/revanced-patches-extended/commit/2f36790336e3a5925bd8591d24eb2c9ae356c136))
+* **YouTube Music/Hide action bar component:** add `Hide add to playlist button`, `Hide comment button`, `Hide download button`, `Hide share button` settings ([7e05acc](https://github.com/Blawuken/revanced-patches-extended/commit/7e05acc75d9100292cf20f96aba6d09e2bc35c1c))
+* **YouTube Music/Hide general ads:** add `Hide interstitial ads` settings ([3560f40](https://github.com/Blawuken/revanced-patches-extended/commit/3560f405233cb189103e5725a4b50c2661284c3b))
+* **YouTube Music/Hide general ads:** remove `Close interstitial ads` settings ([1ddfd5d](https://github.com/Blawuken/revanced-patches-extended/commit/1ddfd5d41baedad4e811491488b5bf72efd12987))
+* **YouTube Music/Translations:** update translation ([f9ff089](https://github.com/Blawuken/revanced-patches-extended/commit/f9ff089a34a37f77bc8407842bc5cd4f40757f3a))
+* **YouTube/Hide layout components:** add `Hide videos with gray description` settings ([96b185e](https://github.com/Blawuken/revanced-patches-extended/commit/96b185e421a68dc26341b3d6d386ccf335f0283d))
+* **YouTube/Translations:** update translation ([8edc187](https://github.com/Blawuken/revanced-patches-extended/commit/8edc187562a716e4006686c6ac7440e5821454b7))
+
 # [1.8.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.7.0...v1.8.0) (2023-12-18)
 
 
