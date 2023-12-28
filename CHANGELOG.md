@@ -1,3 +1,19 @@
+# [1.10.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.9.0...v1.10.0) (2023-12-28)
+
+
+### Bug Fixes
+
+* **Reddit/Change package name:** force close occurs when patch is applied from RVX Manager ([c10aef3](https://github.com/Blawuken/revanced-patches-extended/commit/c10aef3256fb926c0c7ef3cc97dd6a24530f4331))
+* **YouTube Music/Hide category bar:** clarify descriptions ([a4926b7](https://github.com/Blawuken/revanced-patches-extended/commit/a4926b7b6c4bbbe3b74d52439b1fe3b9d39351d3))
+* **YouTube Music/Hide general ads:** `Hide interstitial ads` breaks layout ([1b2a644](https://github.com/Blawuken/revanced-patches-extended/commit/1b2a6445c9bb455ef811b1a8e33794d79a21c0ac))
+* **YouTube Music/Sponsorblock:** changing segment behaviour in sponsorblock setting crashes the app ([722afb5](https://github.com/Blawuken/revanced-patches-extended/commit/722afb55fabb1cdd1f85b9626aa5984eab158749))
+
+
+### Features
+
+* **YouTube Music/Translations:** update translation ([8738f70](https://github.com/Blawuken/revanced-patches-extended/commit/8738f70e093c863791c93c88877bd99dbb0499de))
+* **YouTube/Translations:** update translation ([8f8c7fc](https://github.com/Blawuken/revanced-patches-extended/commit/8f8c7fc447ff3477dfd1cc3144f115f58c2502fb))
+
 # [1.9.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.8.0...v1.9.0) (2023-12-25)
 
 
