@@ -1,3 +1,23 @@
+# [1.11.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.10.0...v1.11.0) (2023-12-31)
+
+
+### Bug Fixes
+
+* **YouTube Music/Disable auto captions:** captions are always disabled when `Disable auto captions` is on ([9f1fbfa](https://github.com/Blawuken/revanced-patches-extended/commit/9f1fbfa397f250ed271f9aca15b29c875bc1fd4c))
+* **YouTube/Disable auto captions:** patch does not work when A/B testing is applied ([42dabe2](https://github.com/Blawuken/revanced-patches-extended/commit/42dabe27ac6e5c13207b359d5a8407358ac86cd7))
+* **YouTube/Hide captions button:** patch does not work when A/B testing is applied ([f5bd7d4](https://github.com/Blawuken/revanced-patches-extended/commit/f5bd7d47d28f8f635d448884035d681aebb89203))
+* **YouTube/Hide filmstrip overlay, Hide seek message:** patch does not work when A/B testing is applied ([4ea8454](https://github.com/Blawuken/revanced-patches-extended/commit/4ea8454b05318056c854a22039f605faf2b30b65))
+* **YouTube/Remove viewer discretion dialog:** `Remove viewer discretion dialog` settings close unintended dialog ([bbc50db](https://github.com/Blawuken/revanced-patches-extended/commit/bbc50db8bf0954eff7ea10594edfbf85ec2f321f))
+
+
+### Features
+
+* **YouTube Music/Hide flyout menu:** add unimplemented settings ([b767d2b](https://github.com/Blawuken/revanced-patches-extended/commit/b767d2bfbb1ebd0a90383a839be8e14831c67ef8))
+* **YouTube Music/Translations:** update translation ([e69de63](https://github.com/Blawuken/revanced-patches-extended/commit/e69de63d71932f03dc05c001345037fdf9e1622e))
+* **YouTube Music:** add `Remove viewer discretion dialog` patch ([7f7a86d](https://github.com/Blawuken/revanced-patches-extended/commit/7f7a86d43de919799a3ae1da2bcb868f3aca8431))
+* **YouTube/Translations:** update translation ([da55525](https://github.com/Blawuken/revanced-patches-extended/commit/da55525ac9d967b6d29d4f4abc6964dabc4ffe6e))
+* **YouTube:** add `Remove viewer discretion dialog` patch ([60bddc6](https://github.com/Blawuken/revanced-patches-extended/commit/60bddc6deb2a2ee2e2266ef0685b9491175f43a9))
+
 # [1.10.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.9.0...v1.10.0) (2023-12-28)
 
 
