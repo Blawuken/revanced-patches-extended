@@ -1,3 +1,21 @@
+# [1.12.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.11.0...v1.12.0) (2024-01-04)
+
+
+### Bug Fixes
+
+* **Sanitize sharing links:** patch doesn't work ([2b5e683](https://github.com/Blawuken/revanced-patches-extended/commit/2b5e68331755a48f42a342a736c70ec34dc586b4))
+* **YouTube Music/Hide general ads:** add `Hide navigation bar component` patch as a dependency ([5ea47d9](https://github.com/Blawuken/revanced-patches-extended/commit/5ea47d923eadd5f1e296f9d2a506d79b09709351))
+* **YouTube/YouTube Music:** change default value ([89c1e24](https://github.com/Blawuken/revanced-patches-extended/commit/89c1e247d7e1b005b431df47fe133c256429a45a))
+
+
+### Features
+
+* **YouTube Music/Translations:** update translation ([9d88cd3](https://github.com/Blawuken/revanced-patches-extended/commit/9d88cd32921684687c7cb98d9759da446d60c23b))
+* **YouTube Music:** add `Disable overlay filter` patch ([8b53739](https://github.com/Blawuken/revanced-patches-extended/commit/8b537393bf951c9243181b91521dc7f123796e59))
+* **YouTube Music:** add `Hide double tap overlay filter` patch ([aba97d1](https://github.com/Blawuken/revanced-patches-extended/commit/aba97d11a62fccb1bc6e3523b7d3ebde85a77d17))
+* **YouTube/Overlay buttons:** add patch options `WiderBottomPadding` ([abb4b25](https://github.com/Blawuken/revanced-patches-extended/commit/abb4b2523e3abf25bc2d99d6da69478a21d58037))
+* **YouTube/Translations:** update translation ([b697d48](https://github.com/Blawuken/revanced-patches-extended/commit/b697d482ba4e8cd990ae16f56b5f6f06ef14d23e))
+
 # [1.11.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.10.0...v1.11.0) (2023-12-31)
 
 
