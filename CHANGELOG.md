@@ -1,3 +1,34 @@
+# [1.13.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.12.0...v1.13.0) (2024-01-19)
+
+
+### Bug Fixes
+
+* **Custom branding name:** patching time is long on RVX Manager ([2b0cdbe](https://github.com/Blawuken/revanced-patches-extended/commit/2b0cdbed2ed3382cc33e5bc987b240751a2e0a7d))
+* improve strings ([301fcdd](https://github.com/Blawuken/revanced-patches-extended/commit/301fcddeb55e1fbf185609cbdd4956eb9d7a0a2c))
+* **Reddit:** some patches are broken in Reddit v2024.02.0+ ([47b6b54](https://github.com/Blawuken/revanced-patches-extended/commit/47b6b54baff35c2343f429eb4ea083109f5eb8b7))
+* **YouTube Music/Hide double tap overlay filter:** `Hide double tap overlay filter` patch hides the player overlay filter ([21c058a](https://github.com/Blawuken/revanced-patches-extended/commit/21c058afc765b169d71caf56006af62b3c71ce79))
+* **YouTube Music/Hide history button:** `Hide history button` does not work on the download tab ([6c645eb](https://github.com/Blawuken/revanced-patches-extended/commit/6c645eb93f27913a8b08c9723378aabec4cfee90))
+* **YouTube/Enable song search:** indicates the supported version when a patch exception occurs ([74e0166](https://github.com/Blawuken/revanced-patches-extended/commit/74e016665b84a6866158314c8e9e1b3794037003))
+* **YouTube/Hide comment component:** `Hide emoji picker` and `Hide thanks button` do not work on the Shorts live stream ([a8ca643](https://github.com/Blawuken/revanced-patches-extended/commit/a8ca64341c37488fc6ef90856af4e054064df595))
+* **YouTube/Overlay buttons:** change the default value of all overlay buttons to hidden ([eb38818](https://github.com/Blawuken/revanced-patches-extended/commit/eb3881818abb03e11f027d1156323a472f528c82))
+* **YouTube/Spoof player parameters:** change the default value ([19e11f3](https://github.com/Blawuken/revanced-patches-extended/commit/19e11f3325340d1333a213b6baf7968909d997f6))
+
+
+### Features
+
+* **YouTube Music/Hide action bar component:** add `Hide Like and Dislike buttons` settings ([98dd9a9](https://github.com/Blawuken/revanced-patches-extended/commit/98dd9a91fe08084a6f70804f1127a3de021f40d8))
+* **YouTube Music/Replace cast button:** add description and known issues ([901e462](https://github.com/Blawuken/revanced-patches-extended/commit/901e4629663023e8bce33449e30967931c7a40bf))
+* **YouTube Music/Translations:** update translation ([9f2a590](https://github.com/Blawuken/revanced-patches-extended/commit/9f2a5904679ee040cdeee1622b33a3296ef8f36c))
+* **YouTube Music:** add `Hide fullscreen share button` patch ([1eff2f4](https://github.com/Blawuken/revanced-patches-extended/commit/1eff2f4df950ad743be494f4835bf14d2803c9a2))
+* **YouTube Music:** add `Hide player overlay filter` patch ([7f82730](https://github.com/Blawuken/revanced-patches-extended/commit/7f82730a694188ab8403c68d4f102cc540169d39))
+* **YouTube Music:** restrict support version ([6907406](https://github.com/Blawuken/revanced-patches-extended/commit/6907406ec8b34e7e3178f920acf2ca9b0cf80386))
+* **YouTube/Default playback speed:** add `Enable shorts default playback speed` settings ([d60864e](https://github.com/Blawuken/revanced-patches-extended/commit/d60864e5c65207d257502c968445d35d4540893f))
+* **YouTube/Hide comment component:** add `Hide preview comment type` settings ([ece0ebd](https://github.com/Blawuken/revanced-patches-extended/commit/ece0ebd21c8f0b6ad31c4ae26d56e10a1e2f1543))
+* **YouTube/Translations:** update translation ([21839dc](https://github.com/Blawuken/revanced-patches-extended/commit/21839dc587c15d82eb4efe1403504bbae2dbe130))
+* **YouTube:** add `Change player flyout panel toggles` patch ([6c46ff1](https://github.com/Blawuken/revanced-patches-extended/commit/6c46ff1894244a07f171006e4b48babae53c29f1))
+* **YouTube:** add `Disable update screen` patch ([217c308](https://github.com/Blawuken/revanced-patches-extended/commit/217c308b142c5872ab310f4ff1dc992a968d7617))
+* **YouTube:** add `Keep landscape mode` patch ([07b1113](https://github.com/Blawuken/revanced-patches-extended/commit/07b11131e908d642cab33f0f18fb96f82267f964))
+
 # [1.12.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.11.0...v1.12.0) (2024-01-04)
 
 
