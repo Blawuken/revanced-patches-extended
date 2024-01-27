@@ -1,3 +1,36 @@
+# [1.14.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.13.0...v1.14.0) (2024-01-27)
+
+
+### Bug Fixes
+
+* **YouTube Music/Enable old style miniplayer:** apply fingerprints compatible with the wider version ([d3f988b](https://github.com/Blawuken/revanced-patches-extended/commit/d3f988ba3d7e6c1f20f2b41b1971b25181e98677))
+* **YouTube Music/Hide taste builder:** apply fingerprints compatible with the wider version ([44a649b](https://github.com/Blawuken/revanced-patches-extended/commit/44a649b91f1e11eaa469ef4a469340e1523fa6a2))
+* **YouTube Music/Replace dismiss queue:** use built-in icons ([3510fc0](https://github.com/Blawuken/revanced-patches-extended/commit/3510fc060a2d454423da1d43f226d4556656348d))
+* **YouTube/Hide comment component:** changes description of `Hide emoji picker` setting ([6eab763](https://github.com/Blawuken/revanced-patches-extended/commit/6eab7635b152f6a27ecccf843ea5b3f1cad17758))
+* **YouTube/Hide layout components:** `Hide join button` setting does not work ([fbb145a](https://github.com/Blawuken/revanced-patches-extended/commit/fbb145a534f1ae14cc5348e0fdac68c001840591))
+* **YouTube/Settings:** move `Hide cast button` setting to `General` settings ([14a88e3](https://github.com/Blawuken/revanced-patches-extended/commit/14a88e372c9ef6fa7ba2755fb1f9f5885cce64bf))
+* **YouTube/Settings:** reset toast message is incorrect ([e872919](https://github.com/Blawuken/revanced-patches-extended/commit/e87291944c420fc2e8ae54980fb760d1d9376bb9))
+* **YouTube/Shorts outline button:** outline icon not applied when like/dislike button is clicked ([329021a](https://github.com/Blawuken/revanced-patches-extended/commit/329021aee1cfc1a7144f6cd39f19aab3fbfd5d25))
+* **YouTube:** clarify patch description ([2b640d9](https://github.com/Blawuken/revanced-patches-extended/commit/2b640d9baac09b3b434e4716555fa31034bf397e))
+
+
+### Features
+
+* **Reddit:** add `Remove subreddit dialog` patch ([9448a02](https://github.com/Blawuken/revanced-patches-extended/commit/9448a02f16dcfdb027f6b269da50459601929b27))
+* **Reddit:** restrict support version ([1fa8fa9](https://github.com/Blawuken/revanced-patches-extended/commit/1fa8fa9c507b3e422a14554b2edb095c2ebe728c))
+* **YouTube Music/Hide general ads:** remove `Hide interstitial ads` settings ([1b7993f](https://github.com/Blawuken/revanced-patches-extended/commit/1b7993f460b2fbaf5bd852a069a0e59fda3d1fed))
+* **YouTube Music/Hide player flyout panel:** add `Hide subscribe / unsubscribe menu`, `Hide sleep timer menu` settings ([15ec438](https://github.com/Blawuken/revanced-patches-extended/commit/15ec438f9f54928f9c8a2a19861141e5c4b8d0fe))
+* **YouTube Music/Translations:** update translation ([0be525a](https://github.com/Blawuken/revanced-patches-extended/commit/0be525a348d403ef8df6b5b7e0734461cbb82507))
+* **YouTube Music:** change patch name `Enable new player background` to `Enable old player background` ([819e7d0](https://github.com/Blawuken/revanced-patches-extended/commit/819e7d08985aa0e02ffb8de5f816106763a31f33))
+* **YouTube Music:** change patch name `Hide emoji picker` to `Hide emoji picker and time stamp` ([517c1ea](https://github.com/Blawuken/revanced-patches-extended/commit/517c1eaf0324d187c9047722327563d0739fafbd))
+* **YouTube Music:** change the description of the `Enable color match player`, `Enable zen mode` patches and exclude them by default ([37aef22](https://github.com/Blawuken/revanced-patches-extended/commit/37aef226e72b854761fd8e9b82c1f67d676548cc))
+* **YouTube Music:** remove `Enable sleep timer` patch ([847e022](https://github.com/Blawuken/revanced-patches-extended/commit/847e022caf78b7db26702e4c646133b5589a20ac))
+* **YouTube/Hide button container:** remove `Hide transcript button` setting ([967f297](https://github.com/Blawuken/revanced-patches-extended/commit/967f297c6812cbf5fae34fafe79f5441e84bada9))
+* **YouTube/Spoof app version:** add target version 18.42.41 - Fixes issue where theme is not applied in search results ([232ef82](https://github.com/Blawuken/revanced-patches-extended/commit/232ef822e46b806a634320cbca50ce6ab73ad114))
+* **YouTube/Translations:** update translation ([f9e967b](https://github.com/Blawuken/revanced-patches-extended/commit/f9e967bf2d807e660e89a99caeee199ddbfc140a))
+* **YouTube:** add support versions `18.46.45`, `18.48.49`, `18.49.37`, `19.01.34`, `19.02.39` ([a1087e8](https://github.com/Blawuken/revanced-patches-extended/commit/a1087e8ac368f7fd75fa2aac7a6104257c2306d6))
+* **YouTube:** support version `19.02.39` ([37b9616](https://github.com/Blawuken/revanced-patches-extended/commit/37b96163868b103a8d473868f8cb1200e07676b5))
+
 # [1.13.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.12.0...v1.13.0) (2024-01-19)
 
 
