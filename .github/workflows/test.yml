@@ -1,7 +1,7 @@
-name: Pull Request
+name: Test Patch
 
 on:
-  pull_request:
+  push:
     branches:
       - revanced-extended
 
@@ -37,9 +37,3 @@ jobs:
 
       - name: Build with Gradle
         run: ./gradlew generateMeta
-
-      - name: Upload revanced-patches to Artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: 'revanced-patches'
-          path: build/libs/*.jar
