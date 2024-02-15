@@ -1,3 +1,45 @@
+# [1.15.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.14.0...v1.15.0) (2024-02-15)
+
+
+### Bug Fixes
+
+* **Hide channel avatar section:** Not worked as expected ([6bdd337](https://github.com/Blawuken/revanced-patches-extended/commit/6bdd337dd485f9c83dc30bad546d5ecb2e81ccb3))
+* **Hide Suggested Video Overlay:** Autoplay option not worked ([0596d94](https://github.com/Blawuken/revanced-patches-extended/commit/0596d9444de330d30ffa5a24440b5faa93bafb0e))
+* **Hide Suggested Video Overlay:** Change autoplay option to `false` ([3a4ef10](https://github.com/Blawuken/revanced-patches-extended/commit/3a4ef10215329a29b3b9eac66e846ad30729de7e))
+* **Overide Quality:** Default Video Quality not worked as excepted ([2036469](https://github.com/Blawuken/revanced-patches-extended/commit/2036469cec2e12972cebf15b3f3654ad5d971bb0))
+* **Overlay Buttons:** Match Whitelist button to other outline icons ([#52](https://github.com/Blawuken/revanced-patches-extended/issues/52)) ([ec92e72](https://github.com/Blawuken/revanced-patches-extended/commit/ec92e726205e89697091a26875125bb7141316d2))
+* **Overlay Button:** Whitelist Button not applied the BottomPadding ([e18b761](https://github.com/Blawuken/revanced-patches-extended/commit/e18b76170b9992bccff0340e9c3a24fe1321c090))
+* **YouTube Music/Spoof app version:** Change target version `6.10.53` to `6.11.52` ([e6138ec](https://github.com/Blawuken/revanced-patches-extended/commit/e6138ec16149bd693be24082e156c2e83357811a))
+* **YT Music - Hide action bar component:** Hide Like/Dislike button not worked in v6.35+ ([8a9996a](https://github.com/Blawuken/revanced-patches-extended/commit/8a9996a2640ae82ceae6e0a779711c85e5ef5b8a))
+
+
+### Features
+
+* **Ambient mode switch:** Apply fingerprint compatible with the wider version ([4ce67c8](https://github.com/Blawuken/revanced-patches-extended/commit/4ce67c8b43d68fac122071992661d96b3d9fe2dc))
+* **Channel Whitelist:** Bello world ! ([bddd472](https://github.com/Blawuken/revanced-patches-extended/commit/bddd47204c1f9ed0d20816f852f357f5b51ee740))
+* **Hide new playlist button:** Apply fingerprint compatible with the wider version ([533a21c](https://github.com/Blawuken/revanced-patches-extended/commit/533a21cd8f595cd3ed0c217d97a028889526c7ac))
+* **Reddit:** Unrestrict support version ([5943023](https://github.com/Blawuken/revanced-patches-extended/commit/5943023e9c22088b5335c583be61041babb1e603))
+* Replace `NewPipe x SponsorBlock` with `Tubular` ([3394f11](https://github.com/Blawuken/revanced-patches-extended/commit/3394f11e9f7b8bc83dc1dc649a370f412fe8940e))
+* **Shorts:** Add `Hide double tap to like animations` patch ([51cc30e](https://github.com/Blawuken/revanced-patches-extended/commit/51cc30e01a1b4a8a65d83897bc260079e53b42d6))
+* **Spoof App Version:** Add version `16.08.35` - Restore old explorer tab ([d5dfdd0](https://github.com/Blawuken/revanced-patches-extended/commit/d5dfdd0c2d3f19c28bad79b28aca98d57610b402))
+* **Spoof App Version:** Add version `18.09.39` - Restore Old library Tab ([a76f12c](https://github.com/Blawuken/revanced-patches-extended/commit/a76f12c7b5f29b539d3b340c746ff703b2098abb))
+* **YouTube - Always Repeat:** Re-implement `pause after repeat feature` ([7fde270](https://github.com/Blawuken/revanced-patches-extended/commit/7fde27028bbad1559140dba755ce09a41e8a82bf))
+* **YouTube - Custom filter:** Custom filtering of the protocol buffer ([fc3a7fa](https://github.com/Blawuken/revanced-patches-extended/commit/fc3a7faa3c5631fe3e6b39fec5c6cd384f295369))
+* **YouTube - Hide layout components:** Add `Hide membership video` settings ([5ede551](https://github.com/Blawuken/revanced-patches-extended/commit/5ede551bc85246ddd9da162e6a0aa6f80453e291))
+* **YouTube Music/Change start page:** Add more settings ([d3222f6](https://github.com/Blawuken/revanced-patches-extended/commit/d3222f614b697494c0d0d000321592e05b79a5ac))
+* **YouTube Music:** Unrestrict support version ([c98ae33](https://github.com/Blawuken/revanced-patches-extended/commit/c98ae336db6050fcd6425173c60cfd75c2af3df1))
+* **YouTube Version:** Change target version back to `19.02.39` ([2c584c9](https://github.com/Blawuken/revanced-patches-extended/commit/2c584c98afa6fc739894dce89568c542ad976c14))
+* **YouTube Version:** Change version to `v19.04.37` ([df0645a](https://github.com/Blawuken/revanced-patches-extended/commit/df0645ad951c8bf5ab78e650a08ce458a66cbc8f))
+* **YouTube/Translations:** update translation ([dcbec6a](https://github.com/Blawuken/revanced-patches-extended/commit/dcbec6a18615d5749884f0dca6e8267364da85e8))
+* **YouTube/Translations:** update translation ([786923d](https://github.com/Blawuken/revanced-patches-extended/commit/786923d2b172f9b83adb4adb8890bf7ed1013fe5))
+* **YouTube/Translations:** update translation ([f34647c](https://github.com/Blawuken/revanced-patches-extended/commit/f34647c458ab46c468dc0acc42d59c24523e0bee))
+* **YouTube:** `18.39.41` is minimum required version to use `SeekMessagePatch` ([fe6d9e9](https://github.com/Blawuken/revanced-patches-extended/commit/fe6d9e9a36f385a274b1c8982b99cc208addbaa2))
+* **YouTube:** Add `Disable rolling number animations` ([5846d9c](https://github.com/Blawuken/revanced-patches-extended/commit/5846d9c3497222f01085fbf782f87cbb80c1a7f2))
+* **YouTube:** Add support for `v19.03.xx` and `v19.04.xx` ([f1ef0e5](https://github.com/Blawuken/revanced-patches-extended/commit/f1ef0e5f201ece0e950b1c7a64370000fc14752e))
+* **YouTube:** Hook download button for Flyout Menu ([a07eac7](https://github.com/Blawuken/revanced-patches-extended/commit/a07eac74738397c9829aa2430e1dd3fb3758d0a0))
+* **YTM:** Add `Hide For You shelf` ([1b274e9](https://github.com/Blawuken/revanced-patches-extended/commit/1b274e9b889eb84d89e605de9e104f1c9297942b))
+* **YTM:** Add `Hide Tap to Update Button` ([327dfd2](https://github.com/Blawuken/revanced-patches-extended/commit/327dfd2825d56e65ed8b9a45ee06b9d765ad4d1a))
+
 # [1.14.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.13.0...v1.14.0) (2024-01-27)
 
 
