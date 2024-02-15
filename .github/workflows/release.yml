@@ -25,8 +25,17 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
 
+      - name: JDK Setup
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: 17
+
       - name: Cache Gradle
         uses: burrunan/gradle-cache-action@v1
+
+      - name: Setup Java
+        run: echo "JAVA_HOME=$JAVA_HOME_17_X64" >> $GITHUB_ENV
 
       - name: Build
         run: ./gradlew generateMeta clean
