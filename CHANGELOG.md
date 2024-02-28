@@ -1,3 +1,17 @@
+# [1.16.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.15.0...v1.16.0) (2024-02-28)
+
+
+### Bug Fixes
+
+* **Hide Suggested Video Overlay:** Autoplay options will follow the system settings ([0e54a42](https://github.com/Blawuken/revanced-patches-extended/commit/0e54a42ffd7a5547a0e831dca39b008dbfd1b7df))
+* **YouTube/Sponsorblock:** Modernize skip buttons ([#119](https://github.com/Blawuken/revanced-patches-extended/issues/119)) ([244680c](https://github.com/Blawuken/revanced-patches-extended/commit/244680c055b7892ebdf5e05fae10c80d9280b746))
+
+
+### Features
+
+* **YouTube - Custom Branding Heading:** Improve patches descriptions ([a12620b](https://github.com/Blawuken/revanced-patches-extended/commit/a12620b243854e874842119e15aab9900540222f))
+* **YouTube - Overlay button:** Add `Time-ordered Playlist` button ([cd4daba](https://github.com/Blawuken/revanced-patches-extended/commit/cd4daba478a1e3ac627fc2f97546afee6ca861f9))
+
 # [1.15.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.14.0...v1.15.0) (2024-02-15)
 
 
