@@ -1,3 +1,17 @@
+# [1.17.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.16.0...v1.17.0) (2024-03-05)
+
+
+### Bug Fixes
+
+* **Spoof Player Parameter:** Fix player tracking such as history or video watchtime ([f135766](https://github.com/Blawuken/revanced-patches-extended/commit/f13576623292cba47ac833b99e15795d798d8869))
+* **YouTube - Overlay buttons:** Fix overlap with chapters ([8fd0c41](https://github.com/Blawuken/revanced-patches-extended/commit/8fd0c418d5d9a208e47ec8c6b83a153f14aa3f67))
+* **YouTube/Overlay buttons:** Add selectable `BottomMargin` ([#130](https://github.com/Blawuken/revanced-patches-extended/issues/130)) ([91bffe8](https://github.com/Blawuken/revanced-patches-extended/commit/91bffe83ec3cf53f69e979d82ea60530774503dc))
+
+
+### Features
+
+* **YouTube - Hook Download Button:** Hook playlist download button ([09769e7](https://github.com/Blawuken/revanced-patches-extended/commit/09769e7e8419f019f4f531d91c1509228e23a0d0))
+
 # [1.16.0](https://github.com/Blawuken/revanced-patches-extended/compare/v1.15.0...v1.16.0) (2024-02-28)
 
 
